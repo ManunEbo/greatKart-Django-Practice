@@ -1,0 +1,19 @@
+**************************************************************************************************
+				django admin user
+**************************************************************************************************
+
+ngangengingongu
+
+mpa1pme2mpi3pmo4mpu5
+
+**************************************************************************************************
+		Stem accounts
+	*****************************
+
+email: elvymanunebo@yahoo.co.uk
+username: ngangengingongu
+Firstname: Elvy
+Lastname: Manun'Ebo
+Password: mpa1pme2mpi3pmo4mpu5
+
+retype the password and the superuser will have been created successfully
